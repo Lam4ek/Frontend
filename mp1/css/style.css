@@ -298,6 +298,11 @@ foreignObject{
     font-style: 18px;
 }
 
+.how-to__box circle:hover{
+    r: 20px;
+    fill: #036CCA;
+}
+
 .how-to__box g:hover text{
     fill: #036CCA;
     font-size: 36px;
