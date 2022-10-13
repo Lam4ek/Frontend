@@ -751,7 +751,7 @@ body{
 }
 
 .about__video{
-	background: url("/images/products/products-video.jpg");
+	background: url("../images/products/products-video.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
